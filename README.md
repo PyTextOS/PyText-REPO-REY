@@ -8,7 +8,7 @@ Applications may be removed from the repository if it violates one of these guid
 3. Source code cannot contain illegal content.
 4. No copyrighted materials are allowed
 
-## Publication requirements for community-made apps and packagest
+## Publication requirements for community-made apps and packages
 - Is compatible with Linux
 - Installs to PyTextOS' `/C/programs` directory
 - The application is command line
