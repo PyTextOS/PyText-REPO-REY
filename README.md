@@ -1,4 +1,6 @@
 # PyText-REPO-REY
+
+**NOTE:** PyTextOS and the repository is still under development.
 The official PyTextOS 1.0 Applications Repository for PyTextOS Applications. Here, you can upload your own application files. Using the `.mpy` file format. Official applications developed by PyTextOS will use the `.sysrey` file extension.
 
 ## Guidelines
